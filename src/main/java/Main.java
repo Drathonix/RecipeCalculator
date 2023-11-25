@@ -8,7 +8,7 @@ public class Main {
         System.out.println("");
         System.out.println("Registered Recipes: ");
         printRecipes();
-        CalculationStorage storage = new CalculationStorage("Fuel Reserve",1);
+        CalculationStorage storage = new CalculationStorage("Lithium Cell",1);
         storage.calculate();
         System.out.println("");
         System.out.println("Produces: " + storage.getResult());

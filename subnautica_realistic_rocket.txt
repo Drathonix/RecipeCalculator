@@ -6,7 +6,7 @@ Reactor Rod: 3x Uranitite Crystal, Lead, Titanium, Glass
 Ion Battery: Ion Cube, Gold, Silver Ore
 Ion Power Cell: 2x Ion Battery, Silicone rubber
 Lithium Battery: Copper Ore, 2x Acid Mushroom
-Lithium Cell: 2x Lithium Battery, Silicon Rubber
+Lithium Cell: 2x Lithium Battery, Silicone Rubber
 Titanium Ingot: 10x Titanium
 Fiber Mesh: 2x Creepvine Sample
 2x Silicone Rubber: Creepvine Seed Cluster

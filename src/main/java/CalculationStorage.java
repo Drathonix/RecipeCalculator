@@ -19,17 +19,18 @@ public class CalculationStorage {
         calculate(result.getProviders().get(0), amount);
     }
 
-    private void calculate(RecipeRegistration recipe, int times){
-        grow(recipe,times);
+    private void calculate(RecipeRegistration recipe, double times){
+        grow(recipe, (int) Math.ceil(times));
         for (ItemRegistration.Stack input : recipe.getInputs()) {
             int amount = input.getSize();
             ItemRegistration item = input.getItem();
+            System.out.println(item.getDisplayName());
             if(item.hasProvider()){
                 RecipeRegistration provider = item.getProviders().get(0);
                 double fraction = (double) amount / provider.getOutput().getSize();
                 calculate(provider, (int) Math.ceil(fraction*times));
             }
-            grow(item,amount*times);
+            grow(item,(int)Math.ceil(amount*times));
         }
     }
 
