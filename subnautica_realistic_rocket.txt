@@ -1,0 +1,70 @@
+Wiring Kit: 2x Silver Ore
+Copper Wire: 2x Copper Ore
+Computer Chip: 2x Table Coral Sample, Gold, Copper Wire
+Advanced Wiring kit: Wiring Kit, 2x Gold, Computer Chip
+Reactor Rod: 3x Uranitite Crystal, Lead, Titanium, Glass
+Ion Battery: Ion Cube, Gold, Silver Ore
+Ion Power Cell: 2x Ion Battery, Silicone rubber
+Lithium Battery: Copper Ore, 2x Acid Mushroom
+Lithium Cell: 2x Lithium Battery, Silicon Rubber
+Titanium Ingot: 10x Titanium
+Fiber Mesh: 2x Creepvine Sample
+2x Silicone Rubber: Creepvine Seed Cluster
+Glass: 2x Quartz
+Bleach: Salt Deposit, Coral Tube Sample
+Lubricant: Creepvine Seed Cluster
+Enameled Glass: Stalker Tooth, Glass
+Plasteel Ingot: Titanium Ingot, 2x Lithium
+Hydrochloric Acid: 3x Deep Shroom, Salt Deposit
+Benzene: 3x Blood Oil,
+Synthetic Fibers: Benzene, Fiber Mesh
+Aerogel: Gelsack, Ruby
+Polyaniline: Gold, Hydrochloric Acid
+Compass: Copper Wire, Wiring Kit
+Beacon: Copper Ore, Titanium
+Scanner: Titanium, Copper Ore
+Hull Reinforcement: 3x Titanium, Lithium, 4x Diamond
+Engine Efficiency Module: Computer Chip, Polyaniline
+Storage Module: 3x Titanium, Lithium
+Antimatter: 3x Reactor Rod, 3x Polyaniline, 3x Hydrochloric Acid, 3x Benzene, 3x Enameled Glass, 3x Ruby
+Infused Antimatter: Antimatter, 5x Ion Cube, 10x Uranitite Crystal
+Parallel Processing Unit: Advanced Wiring Kit, Infused Antimatter, 2x Polyaniline, Cyclops Engine Efficiency Module, Reinforced Ingot
+Shield Generator V2: 5x Cyclops Shield Generator, 5x Hull Reinforcement
+CPU Core: Ion Cube, Scanner, Computer Chip, Antimatter, Copper Wire
+Hydraulic Fluid: 5x Lubricant, Lead, 5x Gel Sack, 2x Benzene
+Deactivated Material: 2x Infused Lithium, 3x Enameled Glass, 3x Table Coral Sample
+Activated Material: Deactivated Material, Kyanite Ingot, Polyaniline
+Oxygen Rich Tank: 2x High Capacity Oxygen Tank, 2x Ion Power Cell, Computer Chip
+Infused Rubber: 10x Silicone Rubber, 5x Lead, 2x Synthetic Fibers
+Reinforced Ingot: Plasteel Ingot, Lithium, 2x Lead, 5x Table Coral Sample, Nickel Ore
+Infused Magnetite: 10x Magnetite, Plasteel Ingot
+Infused Lithium: Plasteel Ingot, 10x Nickel Ore
+Unbreakable Material: Reinforced Ingot, 5x Diamond, Plasteel Ingot, 2x Hull Reinforcement
+Kyanite Ingot: Reinforced Ingot, 5x Kyanite, Hydrochloric Acid, Reactor Rod
+Rocket Base Floats: 10x Floating Air Pump, 10x Air Bladder, 10x Lead, 5x Titanium Ingot
+Rocket Constructor: Mobile Vehicle Bay, 4x Advanced Wiring Kit, 4x Lithium Cell, 4x Seamoth Solar Charger, 4x Lithium, 4x Lubricant
+Rocket Base Flooring: 2x Kyanite, 10x Enameled Glass, Polyaniline, 10x Ruby, Titanium Ingot
+Neptune Control Board: 5x Fiber Mesh, CPU Core, Computer Chip, Cyclops Fire Suppression System, Synthetic Fibers, Infused Lithium
+Time Capsule Device: Reinforced Ingot, 2x Enameled Glass, Titanium Ingot, Storage Module, 2x Wiring Kit, Ion Power Cell, Scanner Room HUD Chip, Beacon, Compass
+Primary CPU Unit: 4x CPU Core, 4x Wiring Kit, Infused Antimatter, 4x Lithium, Infused Magnetite, Compass, Engine Efficiency Module
+Life Support Systems: Reinforced Ingot, Oxygen And Water Unit, Advanced Wiring Kit, 10x Fiber Mesh
+Oxygen And Water Unit: 2x Oxygen Rich Tank, Stillsuit, Infused Antimatter, Advanced Wiring Kit, Kyanite Ingot, Silicone Rubber, Rebreather
+Neptune Cockpit Hull: Unbreakable Material, 5x Synthetic Fibers, 5x Lithium, 2x Hull Reinforcement
+Shield and Glass For Neptune: 2x Activated Material, Shield Generator V2, 5x Enameled Glass, Advanced Wiring Kit, Copper Wire, Computer Chip
+Frame For Neptune: 2x Infused Lithium, Unbreakable Material, 2x Infused Magnetite
+Gantry SystemsL 2x Infused Magnetite, 3x Lubricant, 2x Ion Power Cell, 10x Copper Wire, 3x Benzene, Seamoth Solar Charger
+Gantry Support: Reinforced Ingot, Infused Rubber, 10x Lithium
+Gantry Elevator: 2x Advanced Wiring Kit, 10x Copper Wire, Infused Rubber, 2x Reinforced Ingot
+Hydraulic Arms: Hydraulic Fluid, Infused Lithium, Infused Magnetite, Unbreakable Material
+Boosters: 2x Reinforced Ingot, 4x Infused Magnetite, Infused Antimatter, 4x Booster, 4x Advanced Wiring Kit, 5x Lubricant
+Booster: 5x Aerogel, Unbreakable Material, Repulsion Cannon, Reactor Rod, Advanced Wiring Kit, Infused Magnetite
+Neptune Booster Hulls: Unbreakable Material, 5x Synthetic Fibers, 10x Lithium
+Electrical Systems: 6x Wiring Kit, Antimatter, 10x Copper Wire, 4x Computer Chip
+Framework For Boosters: 2x Infused Lithium, Reinforced Ingot
+Fuel Reserve: Unbreakable Material, 10x Parallel Processing Unit, Ion Power Cell, Advanced Wiring Kit, 5x Copper Wire, 5x Kyanite
+Frame For Fuel Reserve: 2x Infused Lithium, Reinforced Ingot,
+Neptune Fuel Reserve Hull: 2x Unbreakable Material, 5x Synthetic Fibers, Enameled Glass, 5x Lithium
+Hydraulic Systems: Infused Rubber, 4x Hydraulic Fluid, Reinforced Ingot, Advanced Wiring Kit, 4x Prawn Suit Jump Jet Upgrade
+Communications Array System: Scanner Room HUD Chip, Reinforced Ingot, 5x Scanner Room Range Upgrade, 5x Scanner Room Speed Upgrade, Advainced Wiring Kit, Infused Magnetite
+Auxiliary Power Supply Unit: Parallel Processing Unit, 2x Advanced Wiring Kit, 5x Copper Wire, Reinforced Ingot
+Storage For Neptune: 4x Storage Module, 2x Plasteel Ingot
