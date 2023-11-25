@@ -12,24 +12,7 @@ public class Main {
         printRecipes();
         CalculationStorage storage = new CalculationStorage("Neptune",1);
         storage.calculate();
-        System.out.println("");
-        System.out.println("Produces: " + storage.getResult());
-        System.out.println("Raw Materials: ");
-        for (ItemRegistration.Stack value : storage.getRaw()) {
-            System.out.println("    " + value);
-        }
-        System.out.println("Crafted Materials: ");
-        for (ItemRegistration.Stack value : storage.getIntermediates()) {
-            System.out.println("    " + value);
-        }
-        System.out.println("Consumed: ");
-        for (ItemRegistration.Stack value : storage.getConsumed().values()) {
-            System.out.println("    " + value);
-        }
-        System.out.println("Recipes Involved: ");
-        for (RecipeRegistration.Stack value : storage.getRecipes().values()) {
-            System.out.println("    " + value);
-        }
+        SubnauticaInfoExtension.printInfoFor(storage);
     }
 
     private static void printRecipes() {
