@@ -24,7 +24,6 @@ public class CalculationStorage {
         for (ItemRegistration.Stack input : recipe.getInputs()) {
             int amount = input.getSize();
             ItemRegistration item = input.getItem();
-            System.out.println(item.getDisplayName());
             if(item.hasProvider()){
                 RecipeRegistration provider = item.getProviders().get(0);
                 double fraction = (double) amount / provider.getOutput().getSize();

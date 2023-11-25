@@ -1,31 +1,3 @@
-Wiring Kit: 2x Silver Ore
-Copper Wire: 2x Copper Ore
-Computer Chip: 2x Table Coral Sample, Gold, Copper Wire
-Advanced Wiring kit: Wiring Kit, 2x Gold, Computer Chip
-Reactor Rod: 3x Uranitite Crystal, Lead, Titanium, Glass
-Ion Battery: Ion Cube, Gold, Silver Ore
-Ion Power Cell: 2x Ion Battery, Silicone rubber
-Lithium Battery: Copper Ore, 2x Acid Mushroom
-Lithium Cell: 2x Lithium Battery, Silicone Rubber
-Titanium Ingot: 10x Titanium
-Fiber Mesh: 2x Creepvine Sample
-2x Silicone Rubber: Creepvine Seed Cluster
-Glass: 2x Quartz
-Bleach: Salt Deposit, Coral Tube Sample
-Lubricant: Creepvine Seed Cluster
-Enameled Glass: Stalker Tooth, Glass
-Plasteel Ingot: Titanium Ingot, 2x Lithium
-Hydrochloric Acid: 3x Deep Shroom, Salt Deposit
-Benzene: 3x Blood Oil,
-Synthetic Fibers: Benzene, Fiber Mesh
-Aerogel: Gelsack, Ruby
-Polyaniline: Gold, Hydrochloric Acid
-Compass: Copper Wire, Wiring Kit
-Beacon: Copper Ore, Titanium
-Scanner: Titanium, Copper Ore
-Hull Reinforcement: 3x Titanium, Lithium, 4x Diamond
-Engine Efficiency Module: Computer Chip, Polyaniline
-Storage Module: 3x Titanium, Lithium
 Antimatter: 3x Reactor Rod, 3x Polyaniline, 3x Hydrochloric Acid, 3x Benzene, 3x Enameled Glass, 3x Ruby
 Infused Antimatter: Antimatter, 5x Ion Cube, 10x Uranitite Crystal
 Parallel Processing Unit: Advanced Wiring Kit, Infused Antimatter, 2x Polyaniline, Cyclops Engine Efficiency Module, Reinforced Ingot
@@ -52,19 +24,25 @@ Oxygen And Water Unit: 2x Oxygen Rich Tank, Stillsuit, Infused Antimatter, Advan
 Neptune Cockpit Hull: Unbreakable Material, 5x Synthetic Fibers, 5x Lithium, 2x Hull Reinforcement
 Shield and Glass For Neptune: 2x Activated Material, Shield Generator V2, 5x Enameled Glass, Advanced Wiring Kit, Copper Wire, Computer Chip
 Frame For Neptune: 2x Infused Lithium, Unbreakable Material, 2x Infused Magnetite
-Gantry SystemsL 2x Infused Magnetite, 3x Lubricant, 2x Ion Power Cell, 10x Copper Wire, 3x Benzene, Seamoth Solar Charger
+Gantry Systems: 2x Infused Magnetite, 3x Lubricant, 2x Ion Power Cell, 10x Copper Wire, 3x Benzene, Seamoth Solar Charger
 Gantry Support: Reinforced Ingot, Infused Rubber, 10x Lithium
 Gantry Elevator: 2x Advanced Wiring Kit, 10x Copper Wire, Infused Rubber, 2x Reinforced Ingot
 Hydraulic Arms: Hydraulic Fluid, Infused Lithium, Infused Magnetite, Unbreakable Material
 Boosters: 2x Reinforced Ingot, 4x Infused Magnetite, Infused Antimatter, 4x Booster, 4x Advanced Wiring Kit, 5x Lubricant
 Booster: 5x Aerogel, Unbreakable Material, Repulsion Cannon, Reactor Rod, Advanced Wiring Kit, Infused Magnetite
-Neptune Booster Hulls: Unbreakable Material, 5x Synthetic Fibers, 10x Lithium
+Neptune Boosters Hull: Unbreakable Material, 5x Synthetic Fibers, 10x Lithium
 Electrical Systems: 6x Wiring Kit, Antimatter, 10x Copper Wire, 4x Computer Chip
 Framework For Boosters: 2x Infused Lithium, Reinforced Ingot
 Fuel Reserve: Unbreakable Material, 10x Parallel Processing Unit, Ion Power Cell, Advanced Wiring Kit, 5x Copper Wire, 5x Kyanite
 Frame For Fuel Reserve: 2x Infused Lithium, Reinforced Ingot,
 Neptune Fuel Reserve Hull: 2x Unbreakable Material, 5x Synthetic Fibers, Enameled Glass, 5x Lithium
 Hydraulic Systems: Infused Rubber, 4x Hydraulic Fluid, Reinforced Ingot, Advanced Wiring Kit, 4x Prawn Suit Jump Jet Upgrade
-Communications Array System: Scanner Room HUD Chip, Reinforced Ingot, 5x Scanner Room Range Upgrade, 5x Scanner Room Speed Upgrade, Advainced Wiring Kit, Infused Magnetite
+Communications Array System: Scanner Room HUD Chip, Reinforced Ingot, 5x Scanner Room Range Upgrade, 5x Scanner Room Speed Upgrade, Advanced Wiring Kit, Infused Magnetite
 Auxiliary Power Supply Unit: Parallel Processing Unit, 2x Advanced Wiring Kit, 5x Copper Wire, Reinforced Ingot
 Storage For Neptune: 4x Storage Module, 2x Plasteel Ingot
+Neptune Launch Platform: 5x Rocket Base Flooring, Rocket Constructor, Rocket Base Floats, Infused Rubber, Beacon
+Neptune Gantry: Gantry Elevator, Gantry Support, Gantry Systems
+Neptune Boosters: Framework For Boosters, Electrical Systems, Boosters, Neptune Boosters Hull, 4x Hydraulic Arms
+Neptune Fuel Reserve: Storage For Neptune, Frame For Fuel Reserve, Auxiliary Power Supply Unit, Hydraulic Systems, Communications Array System, Neptune Fuel Reserve Hull, Fuel Reserve
+Neptune Cockpit: Primary CPU Unit, Life Support Systems, Neptune Control Board, Time Capsule Device, Neptune Cockpit Hull, Shield And Glass For Neptune, Frame For Neptune
+Neptune: Neptune Launch Platform, Neptune Gantry, Neptune Boosters, Neptune Fuel Reserve, Neptune Cockpit

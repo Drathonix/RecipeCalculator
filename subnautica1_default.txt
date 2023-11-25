@@ -1,0 +1,96 @@
+Wiring Kit: 2x Silver Ore
+Copper Wire: 2x Copper Ore
+Computer Chip: 2x Table Coral Sample, Gold, Copper Wire
+Advanced Wiring kit: Wiring Kit, 2x Gold, Computer Chip
+Reactor Rod: 3x Uranitite Crystal, Lead, Titanium, Glass
+Ion Battery: Ion Cube, Gold, Silver Ore
+Ion Power Cell: 2x Ion Battery, Silicone rubber
+Lithium Battery: Copper Ore, 2x Acid Mushroom
+Lithium Cell: 2x Lithium Battery, Silicone Rubber
+Titanium Ingot: 10x Titanium
+Fiber Mesh: 2x Creepvine Sample
+2x Silicone Rubber: Creepvine Seed Cluster
+Glass: 2x Quartz
+Bleach: Salt Deposit, Coral Tube Sample
+Lubricant: Creepvine Seed Cluster
+Enameled Glass: Stalker Tooth, Glass
+Plasteel Ingot: Titanium Ingot, 2x Lithium
+Hydrochloric Acid: 3x Deep Shroom, Salt Deposit
+Benzene: 3x Blood Oil,
+Synthetic Fibers: Benzene, Fiber Mesh
+Aerogel: Gel Sack, Ruby
+Polyaniline: Gold, Hydrochloric Acid
+Compass: Copper Wire, Wiring Kit
+Beacon: Copper Ore, Titanium
+Scanner: Titanium, Copper Ore
+Hull Reinforcement: 3x Titanium, Lithium, 4x Diamond
+Engine Efficiency Module: Computer Chip, Polyaniline
+Storage Module: 3x Titanium, Lithium
+Hatching Enzymes: Eye Stalk Seed, Sea Crown Seed, Fungal Sample, Ghost Weed Seed, Bulb Bush Sample
+Filtered Water: Bladderfish
+2x Disinfected Water: Bleach
+5x Pipe: 2x Titanium
+Floating Air Pump: 2x Titanium
+Purple Tablet: Ion Cube, 2x Diamond
+Blue Tablet: Ion Cube, 2x Kyanite
+Orange Tablet: Ion Cube, 2x Nickel Ore
+Standard Oxygen Tank: 3x Titanium
+High Capacity Oxygen Tank: Standard Oxygen Tank, 2x Glass, 4x Titanium, Silver Ore
+Fins: 2x Silicone Rubber
+Radiation Suit: 2x Fiber Mesh, 2x Lead
+Reinforced Dive Suit: Synthetic Fibers, 2x Diamond, 2x Titanium
+Stillsuit: Synthetic Fibers, Aerogel, Copper Wire
+First Aid Kit: Fiber Mesh
+Fire Extinguisher: 3x Titanium
+Rebreather: Wiring Kit, Fiber Mesh
+Seaglide: 2x Lubricant, Copper Wire, 2x Lead, 2x Gold
+Mobile Vehicle Bay: Titanium Ingot, Lubricant, Lithium Cell
+Waterproof Locker: 4x Titanium
+Grav Trap: 2x Acid Mushroom, Copper Ore, Lead, Titanium
+3x Creature Decoy: 3x Titanium, Wiring Kit
+Prawn Suit Torpedo Arm: 5x Titanium, Lithium, Aerogel
+Prawn Suit Drill Arm: 5x Titanium, Lithium, 4x Diamond
+Prawn Suit Grappling Arm: Advanced Wiring Kit, Benzene, 5x Titanium, Lithium
+Prawn Suit Propulsion Cannon: Computer Chip, 5x Titanium, 2x Magnetite, Lithium
+Prawn Suit Jump Jet Upgrade: 2x Nickel Ore, 3x Crystalline Sulfur, 5x Titanium, Lithium
+Prawn Suit Thermal Reactor: 2x Polyaniline, 2x Kyanite, Wiring Kit
+Prawn Suit Depth Module MK1: UNDEFINED
+2x Vortex Torpedo: Titanium, Magnetite
+2x Gas Torpedo: Titanium, Gas Pod
+Seamoth Depth Module MK1: UNDEFINED
+Seamoth Sonar: Copper Wire, 2x Magnetite
+Seamoth Torpedo System: 3x Titanium, Lithium, Aerogel
+Seamoth Perimeter Defense System: Polyaniline, Wiring Kit
+Seamoth Solar Charger: Advanced Wiring Kit, Enameled Glass
+Cyclops Docking Bay Repair Module: Repair Tool, Copper Wire
+Cyclops Sonar Upgrade: Computer Chip, 3x Magnetite
+Cyclops Shield Generator: Advanced Wiring Kit, Polyaniline, Lithium Cell
+Cyclops Engine Efficiency Module: Computer Chip, Benzene, Polyaniline
+Cyclops Depth Module MK1: UNDEFINED
+Cyclops Thermal Reactor Module: 2x Polyaniline, 4x Kyanite, Wiring Kit
+Cyclops Decoy Tube Upgrade: 3x Titanium, 2x Lithium, Aerogel
+Cyclops Fire Suppression System: 2x Aerogel, 2x Crystalline Sulfur
+Cyclops Depth Module MK2: UNDEFINED
+Cyclops Depth Module MK3: UNDEFINED
+Repulsion Cannon: Propulsion Cannon, Computer Chip, 4x Magnetite
+Swim Charge Fins: Fins, Polyaniline, Wiring Kit
+Ultra Glide Fins: Fins, 2x Silicone Rubber, Titanium, Lithium
+Lightweight High Capacity Tank: High Capacity Oxygen Tank, Plasteel Ingot
+Ultra High Capacity Tank: High Capacity Oxygen Tank, 4x Lithium
+Thermoblade: Survival Knife, Lithium Battery
+Prawn Suit Depth Module MK2: UNDEFINED
+Seamoth Depth Module MK2: UNDEFINED
+Seamoth Depth Module MK3: UNDEFINED
+Scanner Room Range Upgrade: Copper Ore, Magnetite
+Camera Drone: Computer Chip, Lithium Battery, Glass, Titanium
+Scanner Room HUD Chip: Computer Chip, Magnetite
+Scanner Room Speed Upgrade: Silver Ore, Gold
+Survival Knife: Silicone Rubber, Titanium
+Flashlight: Glass, Titanium
+Repair Tool: Silicone Rubber, Cave Sulfur, Titanium
+Pathfinder Tool: 2x Creepvine Seed Cluster, Copper Wire, Titanium
+Air Bladder: Silicone Rubber, Bladderfish
+5x Flare: Cave Sulfur
+Habitat Builder: UNDEFINED
+Laser Cutter: 2x Diamond, Titanium, Cave Sulfur
+Stasis Rifle: UNDEFINED

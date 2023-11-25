@@ -4,11 +4,13 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        loadTXT("subnautica_death_run.txt");
         loadTXT("subnautica_realistic_rocket.txt");
+        loadTXT("subnautica1_default.txt");
         System.out.println("");
         System.out.println("Registered Recipes: ");
         printRecipes();
-        CalculationStorage storage = new CalculationStorage("Lithium Cell",1);
+        CalculationStorage storage = new CalculationStorage("Neptune",1);
         storage.calculate();
         System.out.println("");
         System.out.println("Produces: " + storage.getResult());
@@ -42,6 +44,9 @@ public class Main {
             System.out.println("Loading Recipes From " + file);
             while (scanner.hasNextLine()){
                 String line = scanner.nextLine();
+                if(line.isEmpty()){
+                    continue;
+                }
                 System.out.println("Reading: " + line);
                 RecipeRegistration.fromLine(line);
             }

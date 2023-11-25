@@ -1,0 +1,20 @@
+Lithium Battery: Lithium, Diamond, Salt Deposit, Silicone Rubber
+Copper Zinc Battery: Copper Ore, 2x Acid Mushroom
+Lead Acid Power Cell: 2x Lead, 4x Acid Mushroom, Silicone Rubber
+Integrated Air Filter: Compass, Computer Chip, Polyaniline, Synthetic Fibers
+Prawn Suit Depth Module MK1: Plasteel Ingot, 3x Nickel Ore, 3x Crystalline Sulfur, Kyanite
+Nano Decompression Module: Computer Chip, 2x Aerogel, 2x Crystalline Sulfur, 2x Lithium, 4x Lead
+Seamoth Depth Module MK1: Titanium Ingot, 2x Magnetite, 3x Aerogel, Enameled Glass
+Cyclops Depth Module MK1: Plasteel Ingot, 3x Ruby, 3x Nickel Ore
+Cyclops Depth Module MK2: Cyclops Depth Module MK1, Plasteel Ingot, 3x Crystalline Sulfur, Kyanite
+Cyclops Depth Module MK3: Cyclops Depth Module MK2, 3x Crystalline Sulfur, 3x Nickel Ore, 5x Kyanite
+Reinforced Dive Suit Mark 2: Reinforced Dive Suit, Synthetic Fibers, 2x Ruby, 2x River Prowler Scale
+Reinforced Dive Suit Mark 3: Reinforced Dive Suit Mark 2, Synthetic Fibers, 2x Kyanite, 2x Lava Lizard Scale
+Reinforced Still Suit: Stillsuit, 2x River Prowler Scale, 2x Synthetic Fibers
+Prawn Suit Depth Module MK2: Prawn Suit Depth Module MK1, 5x Titanium, 2x Lithium, 3x Kyanite
+Seamoth Depth Module MK2: Plasteel Ingot, 3x Nickel Ore, Enameled Glass
+Seamoth Depth Module MK3: Plasteel Ingot, 3x Crystalline Sulfer, Enameled Glass
+Habitat Builder: 2x Computer Chip, 2x Wiring Kit, 2x Lithium, Magnetite
+Stasis Rifle: Computer Chip, 4x Magnetite, 2x Uranitite Crystal, Benzene
+Propulsion Cannon: Wiring Kit, 2x Magnetite, 2x Lead
+Light Stick: Lithium Battery, Titanium, Glass
